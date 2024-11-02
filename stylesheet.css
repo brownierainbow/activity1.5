@@ -1,0 +1,13 @@
+dt {
+    font-weight: bold;
+}
+
+dl,
+dd {
+    font-size: 15px;
+}
+
+dd {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
